@@ -59,4 +59,4 @@ jobs:
         with:
           app-name: 'dataextraction'
           slot-name: 'production'
-          publish-profile: ${{ secrets.AzureAppService_PublishProfile_c2c43d9afe254404891936ee19eac6c8 }}
+          publish-profile: ${{ secrets.AzureAppService_PublishProfile_a23424e7d2b547689161ca3ba15f58e4 }}
